@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Surajdang4319
+- 👋 Hi, I’m Suraj Dangi
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ethical hacking
-- 📫 How to reach me 9520042021 my whatsapp number
+- 📫 How to reach me surajdangi911@gmail.com my Gmail
 
 <!---
 Surajdang4319/Surajdang4319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
